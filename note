@@ -1,0 +1,18 @@
+"core-js": "^3.6.5",// core-js là thư viện hỗ trợ xử lý các hàm cơ bản của javascript
+    "vue": "^2.6.11",
+    "@mdi/js": "^5.7.55", // thư viện hỗ trợ icon
+    "axios": "^1.3.6",    // thư viện hỗ trợ gọi api
+    "date-fns": "^2.16.1", // thư viện hỗ trợ xử lý thời gian
+    "datepicker": "^0.0.0", // thư viện hỗ trợ nhập ngày tháng
+    "moment": "^2.29.1", // moment là thư viện hỗ trợ xử lý thời gian
+    "semver": "^7.5.0",  // semver là thư viện hỗ trợ xử lý phiên bản
+    "vee-validate": "^2.1.4",     // thư viện hỗ trợ validate form
+    "vue-i18n": "^8.22.0",   // thư viện hỗ trợ đa ngôn ngữ
+    "vue-router": "^3.4.6", 
+    "vue-the-mask": "^0.11.1", // thư viện hỗ trợ nhập số điện thoại
+    "vuejs-datepicker": "^1.6.2", // thư viện hỗ trợ nhập ngày tháng
+    "vuelidate": "^0.7.4", // thư viện hỗ trợ validate form
+    "vuetify": "^2.6.15",  // thư viện hỗ trợ giao diện
+    "vuex": "^3.5.1"   // thư viện hỗ trợ quản lý state
+    "vuetify-loader": "^1.6.0" //vuetify-loader là một plugin webpack cho Vuetify. Nó tạo ra các file CSS riêng biệt cho mỗi component Vuetify của bạn, giúp giảm kích thước của ứng dụng của bạn.
+  
